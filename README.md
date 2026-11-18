@@ -1,5 +1,7 @@
 # 그내종 공개 데모 (정적 사이트)
 
+### ▶ [홈페이지 바로 가기](https://k-im-rose.github.io/geunaejong-demo/) · [코드 저장소](https://github.com/k-im-rose/aiffel/tree/investment-ai-briefing/investment-ai-briefing)
+
 그내종. 그래서 내 종목은? 의 공개 데모입니다. 가상 투자자 프로필과 2026-11-17에 실제 수집한 뉴스로 만든 브리핑을 보여 줍니다.
 이 저장소는 배포용 정적 파일만 담고 있습니다. 프로젝트 전체(코드, 문서, 평가)는 https://github.com/k-im-rose/aiffel/tree/investment-ai-briefing/investment-ai-briefing 에 있습니다.
 
